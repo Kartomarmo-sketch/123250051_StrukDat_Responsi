@@ -252,8 +252,8 @@ void isi_organ(){
     int no = 1;
     cout << "===isi organ yang tersedia=="<< endl << endl;
     cout << "1. Pre-order"<<endl;
-    cout << "1. In-order"<<endl;
-    cout << "1. Post-order"<<endl << endl;
+    cout << "2. In-order"<<endl;
+    cout << "3. Post-order"<<endl << endl;
     cout << "Masukkan pilihan anda: ";
     cin >> pil;
     cout << endl;
